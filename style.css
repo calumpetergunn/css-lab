@@ -7,12 +7,14 @@ header {
     color: white
 }
 
-header > nav > ul > li {
+li {
     list-style: none;
     display: inline;
+    
 }
 
 header > nav > ul > li > a {
     color: white;
     text-decoration: none;
 }
+
